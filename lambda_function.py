@@ -2,7 +2,7 @@ import json
 import boto3
 import csv
 import io
-import env
+import os
 import datetime
 from fastapi import Request, FastAPI, Body, HTTPException #maybe httpexception not necessary
 from mangum import Mangum
