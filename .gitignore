@@ -1,0 +1,6 @@
+dependencies/
+env/
+*.zip
+lambda_function.zip
+aws_lambda_artifact.zip
+.DS_Store
